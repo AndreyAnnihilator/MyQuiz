@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyQuiz</string>
+    <string name="self_destruct">self_destruct</string>
+</resources>
